@@ -9,7 +9,7 @@ data class Reserva(
     val id: Int = 0,
     val nombreCliente: String,
     val telefono: String,
-    val fecha: String,        
+    val fecha: String,
     val hora: String,
     val horaMinutos: Int = 0,
     val numeroPista: Int,
